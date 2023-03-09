@@ -9,6 +9,16 @@ const btnSalvar = document.querySelector('#btnSalvar')
 let itens
 let id
 
+
+// let divProdutos = document.querySelector("produtos")
+// fetch("bd.json").then((response) => {
+//   response.json().then((dados) => {
+//       dados.produtos.map((produto) => {
+//         divProdutos.innerHTML = `<li> ${produto.Equipamento} </li> `
+//       })
+//     })
+//   })
+
 function openModal(edit = false, index = 0) {
   modal.classList.add('active')
 

@@ -1,0 +1,208 @@
+{
+"produtos": [
+    {
+     "Equipamento": "HD",
+     "Marca": "WD",
+     "Modelo": "SATA 1tb",
+     "Quantidade": 30
+    },
+    {
+     "Equipamento": "Celular - Novo",
+     "Marca": "Motorola",
+     "Modelo": "Moto G22",
+     "Quantidade": 1
+    },
+    {
+     "Equipamento": "Celular - Usado",
+     "Marca": "Motorola",
+     "Modelo": "Moto G30 ",
+     "Quantidade": 0
+    },
+    {
+     "Equipamento": "Celular - Novo",
+     "Marca": "Motorola",
+     "Modelo": "Moto E7",
+     "Quantidade": 5
+    },
+    {
+     "Equipamento": "Celular (S\/CARREGADOR)",
+     "Marca": "Motorola",
+     "Modelo": "Moto E7",
+     "Quantidade": 2
+    },
+    {
+     "Equipamento": "Celular - Usado",
+     "Marca": "Motorola",
+     "Modelo": "Moto E6",
+     "Quantidade": 5
+    },
+    {
+     "Equipamento": "Celular (S\/CARREGADOR)",
+     "Marca": "Motorola",
+     "Modelo": "Moto E6",
+     "Quantidade": 3
+    },
+    {
+     "Equipamento": "Celular - Usado",
+     "Marca": "Motorola",
+     "Modelo": "Moto G7",
+     "Quantidade": 2
+    },
+    {
+     "Equipamento": "Ipad ",
+     "Marca": "Apple",
+     "Modelo": "Ipad - tablet",
+     "Quantidade": 0
+    },
+    {
+     "Equipamento": "Notebook",
+     "Marca": "Dell",
+     "Modelo": "Vostro 15 3501",
+     "Quantidade": 4
+    },
+    {
+     "Equipamento": "Notebook",
+     "Marca": "Dell",
+     "Modelo": "Inspiron 5509",
+     "Quantidade": 1
+    },
+    {
+     "Equipamento": "Notebook - Usado",
+     "Marca": "Lenovo",
+     "Modelo": "Ideapad S145 ",
+     "Quantidade": 7
+    },
+    {
+     "Equipamento": "Notebook - ArkLok",
+     "Marca": "Lenovo",
+     "Modelo": "ThinkPad",
+     "Quantidade": 2
+    },
+    {
+     "Equipamento": "Notebook - Usado",
+     "Marca": "Lenovo(C\/HD)",
+     "Modelo": "Ideapad S145 ",
+     "Quantidade": 7
+    },
+    {
+     "Equipamento": "Desktop",
+     "Marca": "Positivo",
+     "Modelo": "I3 Station",
+     "Quantidade": 4
+    },
+    {
+     "Equipamento": "Desktop Gamer",
+     "Marca": "Gamer",
+     "Modelo": "Pichau gamer",
+     "Quantidade": 0
+    },
+    {
+     "Equipamento": "Teclado",
+     "Marca": "Multilaser",
+     "Modelo": "Corporativo",
+     "Quantidade": 16
+    },
+    {
+     "Equipamento": "Mouse",
+     "Marca": "Multilaser",
+     "Modelo": "Corporativo",
+     "Quantidade": 8
+    },
+    {
+     "Equipamento": "Suporte de Notebook",
+     "Marca": "Qualquer",
+     "Modelo": "Corporativo",
+     "Quantidade": 14
+    },
+    {
+     "Equipamento": "Monitor - Usado",
+     "Marca": "LG - Positivo",
+     "Modelo": "19\"",
+     "Quantidade": 2
+    },
+    {
+     "Equipamento": "Monitor - Novo",
+     "Marca": "Samsung",
+     "Modelo": "Samsung 22\" - ArkLok",
+     "Quantidade": 1
+    },
+    {
+     "Equipamento": "Monitor - Novo",
+     "Marca": "Lenovo",
+     "Modelo": "ThinkVision 22\" - ArkLok",
+     "Quantidade": 0
+    },
+    {
+     "Equipamento": "Adaptador HDMI",
+     "Marca": "Himaston",
+     "Modelo": "Convert cable",
+     "Quantidade": 2
+    },
+    {
+     "Equipamento": "Chip",
+     "Marca": "Vivo",
+     "Modelo": "Empresarial",
+     "Quantidade": 10
+    },
+    {
+     "Equipamento": "Carregador Micro USB",
+     "Marca": "Motorola",
+     "Modelo": "Turbo Power",
+     "Quantidade": 0
+    },
+    {
+     "Equipamento": "Carregador Tipo C",
+     "Marca": "Motorola",
+     "Modelo": "Turbo Power",
+     "Quantidade": 0
+    },
+    {
+     "Equipamento": "FoneAuricular",
+     "Marca": "HP",
+     "Modelo": "DHE-7000",
+     "Quantidade": 2
+    },
+    {
+     "Equipamento": "Câmera Analógica",
+     "Marca": "Intelbras",
+     "Modelo": "Bullet",
+     "Quantidade": 0
+    },
+    {
+     "Equipamento": "Câmera IP",
+     "Marca": "Intelbras",
+     "Modelo": "VIP full HD",
+     "Quantidade": 6
+    },
+    {
+     "Equipamento": "Toner Impressora ArkLok",
+     "Marca": "Kyocera",
+     "Modelo": "M2640idw",
+     "Quantidade": 4
+    },
+    {
+     "Equipamento": "Switch",
+     "Marca": "TPlink\/Intelbras",
+     "Modelo": "Switch rede",
+     "Quantidade": 0
+    },
+    {
+     "Equipamento": "Roteador",
+     "Marca": "TPlink",
+     "Modelo": "Rede",
+     "Quantidade": 4
+    },
+    {
+     "Equipamento": "Impressora",
+     "Marca": "Kyocera",
+     "Modelo": "Ecosys M2040idw",
+     "Quantidade": 2
+    },
+    {
+     "Equipamento": "Cabo HDMI",
+     "Marca": "Cabo",
+     "Modelo": "HDMI",
+     "Quantidade": 1
+    }
+   ]
+}
