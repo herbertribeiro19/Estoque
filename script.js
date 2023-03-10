@@ -62,7 +62,7 @@ function insertItem(item, index) {
     <td>${item.modelo}</td>
     <td>${item.quantidade} Unidades</td>
     <td class="acao">
-      <button onclick="editItem(${index})"><i class='bx bx-edit' ></i></button>
+      <button onclick="editItem(${index})"><i class='bx bx-edit'></i></button>
     </td>
     <td class="acao">
       <button onclick="deleteItem(${index})"><i class='bx bx-trash'></i></button>
